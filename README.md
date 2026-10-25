@@ -28,7 +28,7 @@ Windows laptop
                     └── Modular Sensor VM
 ```
 
-I copied this from how my team lead has his set up (Ubuntu Desktop, VirtualBox, and the sensor inside it). I actually started on CentOS Stream 10, but the docs I found only list Ubuntu as a supported host, so I deleted it and started over with Ubuntu.
+This is the setup I built: an Ubuntu 22.04 Desktop VM in VMware, VirtualBox installed on that, and the sensor VM running inside VirtualBox.
 
 ---
 
@@ -212,6 +212,5 @@ I skipped `set tenant_id` the first time. The sensor still connected, so I didn'
 
 ## Next steps
 
-- [ ] Change the default `aella` password
 - [ ] Set up a Windows Server VM and practice deploying the Windows agent
 - [ ] Try it on a real PC or mini PC, without the nested layer
