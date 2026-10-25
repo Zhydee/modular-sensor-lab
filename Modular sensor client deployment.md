@@ -10,9 +10,6 @@ Client PC / mini PC
               └── Modular Sensor VM
 ```
 
-> [!WARNING]
-> Keep this file as a blank template. Don't commit real client IPs, tenant IDs, CM addresses, tokens or passwords to GitHub.
-
 ---
 
 ## 0. Before going on site
