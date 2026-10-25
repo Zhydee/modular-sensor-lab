@@ -1,0 +1,6 @@
+*.ova
+*.vdi
+*.vmdk
+*.iso
+*token*
+*.env
